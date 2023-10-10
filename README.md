@@ -1,9 +1,8 @@
 ##                                                                          Welcome to Sawrav Yadav's GitHub Universe! 🌟
-![](https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif =250x250)
-
-                                                                
-                                                                
-
+<div style="display: flex; justify-content: center;">
+  <img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" alt="Animated GIF" style="width: 50%;" />
+</div>
+                                                                                                                           
 Hello fellow data enthusiasts! I'm Sawrav Yadav, and I have a passion for breathing life into raw data. I believe that data, in its purest form, has stories to tell and insights to share. My mission is to unravel these narratives and transform data into vibrant, meaningful experiences.
 
 🔥 What Sets Me Apart:
