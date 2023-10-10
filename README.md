@@ -1,6 +1,6 @@
 #                                                                          Welcome to Sawrav Yadav's GitHub Universe! 🌟
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" alt="Animated GIF" width="25%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" alt="Animated GIF" width="35%" />
 </div>
 
 
