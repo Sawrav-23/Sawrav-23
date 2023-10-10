@@ -1,5 +1,5 @@
 ##                                                                          Welcome to Sawrav Yadav's GitHub Universe! 🌟
-![212750999-42ff8a64-dad8-4772-9648-849968543991](https://github.com/Sawrav-23/Sawrav-23/assets/144011738/13dccc65-3efd-4e9b-9936-dc4f9bceb9b7)
+![](https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif =250x250)
 
                                                                 
                                                                 
